@@ -11,5 +11,3 @@ git config --global user.email arturo24_3@hotmail.com
 git init
 git add .
 git commit -m "Versión Inicial"
-git add .
-git commit -m "Agrega solución primer ejercicio"
